@@ -1,5 +1,5 @@
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
-//chapter 2
+
 public class Percolation {
     private int n;
     private Boolean[][] opened;

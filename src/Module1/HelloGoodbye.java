@@ -1,6 +1,4 @@
-package Chapter1;
-
-import edu.princeton.cs.algs4.StdIn;
+package Module1;
 
 public class HelloGoodbye {
     public static void main(String[] args){
